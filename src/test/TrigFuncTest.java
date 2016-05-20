@@ -19,7 +19,7 @@ public class TrigFuncTest {
     @Before
     public void setUp() {
         func = new FuncLevel2();
-        precision = 0.0001;
+        precision = 0.00001;
         result = Double.NaN;
     }
     //x=0

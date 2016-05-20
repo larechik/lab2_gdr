@@ -8,7 +8,7 @@ public class FuncLevel3 {
     FuncLevel7 func7 =new FuncLevel7();
     Sec sec=new Sec();
     public double LogFunc1(double arg, double precision) {
-        return func4.TrigFunc2(arg, precision)/ func7.Log_5(arg, precision);
+        return func4.LogFunc2(arg, precision)/ func7.Log_5(arg, precision);
     }
     public double LogFunc5(double arg, double precision) {
         return Math.pow(func7.Log_5(arg, precision),2);

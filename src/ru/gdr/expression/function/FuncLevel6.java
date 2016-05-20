@@ -16,6 +16,9 @@ public class FuncLevel6 {
     }
 
     public double TrigFunc8(double arg, double precision) {
+        if(arg==Double.POSITIVE_INFINITY||arg==Double.NEGATIVE_INFINITY){
+            return 1;
+        }
         if (func7.Cot(arg, precision)==0) return Double.NaN;
         return func7.Cot(arg, precision)/func7.Cot(arg, precision);
     }

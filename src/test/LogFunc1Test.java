@@ -19,7 +19,7 @@ public class LogFunc1Test {
     @Before
     public void setUp() {
         func = new FuncLevel3();
-        precision = 0.0001;
+        precision = 0.00001;
         result = Double.NaN;
     }
     //0

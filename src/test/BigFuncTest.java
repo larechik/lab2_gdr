@@ -18,7 +18,7 @@ public class BigFuncTest {
     @Before
     public void setUp() {
         func = new Func();
-        precision = 0.001;
+        precision = 0.000001;
         result = Double.NaN;
     }
 

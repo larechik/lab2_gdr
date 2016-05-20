@@ -19,7 +19,7 @@ public class LogFunc2Test {
     @Before
     public void setUp() {
         func = new FuncLevel4();
-        precision = 0.0001;
+        precision = 0.000001;
         result = Double.NaN;
     }
     //0
@@ -39,7 +39,7 @@ public class LogFunc2Test {
     public void FuncTestPoint0_r(){
         expectedValue=133.9030719;
         result=func.LogFunc2(+0.03,precision);
-        assertEquals(expectedValue, result,0.01);
+        assertEquals(expectedValue, result,0.1);
     }
     //Infinity
     @Test

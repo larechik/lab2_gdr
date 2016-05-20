@@ -19,7 +19,7 @@ public class TrigFunc7Test {
     @Before
     public void setUp() {
         func = new FuncLevel5();
-        precision = 0.0001;
+        precision = 0.00001;
         result = Double.NaN;
     }
     //Infinity
@@ -95,7 +95,7 @@ public class TrigFunc7Test {
     //-pi -3.14159265359
     @Test
     public void FuncTestPointMPi(){
-        expectedValue= Double.NaN;
+        expectedValue= Double.NEGATIVE_INFINITY;
         result=func.TrigFunc7(-Math.PI,precision);
         assertEquals(expectedValue,result,0.01);
     }
@@ -122,13 +122,13 @@ public class TrigFunc7Test {
     public void FuncTestPointM2Pi_l(){
         expectedValue=1110.9449238;
         result=func.TrigFunc7(-2*Math.PI-0.03,precision);
-        assertEquals(expectedValue,result,0.01);
+        assertEquals(expectedValue,result,0.1);
     }
     @Test
     public void FuncTestPointM2Pi_r(){
         expectedValue=1110.9438601;
         result=func.TrigFunc7(-2*Math.PI+0.03,precision);
-        assertEquals(expectedValue,result,0.01);
+        assertEquals(expectedValue,result,0.1);
     }
     //-pi/4 0.78539816339
     @Test

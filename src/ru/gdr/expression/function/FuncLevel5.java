@@ -20,7 +20,7 @@ public class FuncLevel5 {
         return func6.TrigFunc8(arg, precision)/func7.TrigFunc9(arg, precision);
     }
     public double TrigFunc3(double arg, double precision) {
-        return func6.LogFunc4(arg, precision)*sec.Sec(arg, precision);
+        return func6.TrigFunc4(arg, precision)*sec.Sec(arg, precision);
     }
     //написать заглушки
 //    public double LogFunc3(double arg, double precision) {

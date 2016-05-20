@@ -44,7 +44,7 @@ public class LogFunc4Test {
     //Infinity
     @Test
     public void FuncTestPosInf(){
-        expectedValue=1.6094379;
+        expectedValue=Double.POSITIVE_INFINITY;
         result=func.LogFunc4(Double.POSITIVE_INFINITY,precision);
         assertEquals(expectedValue, result,0.01);
     }

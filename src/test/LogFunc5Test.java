@@ -25,7 +25,7 @@ public class LogFunc5Test {
     //0
     @Test(timeout = 10000)
     public void FuncTestPoint0(){
-        expectedValue=Double.NaN;
+        expectedValue=Double.POSITIVE_INFINITY;
         result=func.LogFunc5(0,precision);
         assertEquals(expectedValue, result,0.01);
     }

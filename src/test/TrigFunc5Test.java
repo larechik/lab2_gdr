@@ -19,7 +19,7 @@ public class TrigFunc5Test {
     @Before
     public void setUp() {
         func = new FuncLevel3();
-        precision = 0.0001;
+        precision = 0.00001;
         result = Double.NaN;
     }
     //Infinity
@@ -84,7 +84,7 @@ public class TrigFunc5Test {
     public void FuncTestPointM5PiDiv2_l(){
         expectedValue=-2221.3939297;
         result=func.TrigFunc5(-5*Math.PI/2-0.03,precision);
-        assertEquals(expectedValue,result,0.01);
+        assertEquals(expectedValue,result,0.1);
     }
     @Test
     public void FuncTestPointM5PiDiv2_r(){
