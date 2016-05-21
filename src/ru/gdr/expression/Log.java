@@ -11,8 +11,7 @@ public class Log {
 
     public static void write(double x, double y)
     {
-        String str = "%.4f;%f\n";
-
+        String str = "%.4f;%.4f\n";
         try
         {
             bw.write(String.format(str, x, y));
