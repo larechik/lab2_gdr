@@ -23,7 +23,7 @@ public class FuncLevel7 {
     public double Cot(double arg, double precision) {
         return 1 / func8.Tan(arg, precision);
     }
-
+//Implementation using stubs
 //    public double Log_5(double arg, double precision) {
 //        return func8.Ln(arg, precision) / func8.Ln(5, precision);
 //    }

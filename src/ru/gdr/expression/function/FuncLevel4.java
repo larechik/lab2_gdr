@@ -20,7 +20,7 @@ public class FuncLevel4 {
     public double LogFunc2(double arg, double precision) {
         return Math.pow(func5.LogFunc3(arg, precision),3);
     }
-    //написать заглушки
+//Implementation using stubs
 //    public double TrigFunc2(double arg, double precision) {
 //        return func5.TrigFunc3(arg, precision)+sin.Sin(arg, precision);
 //    }

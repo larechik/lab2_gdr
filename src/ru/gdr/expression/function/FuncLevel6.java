@@ -26,6 +26,7 @@ public class FuncLevel6 {
     public double LogFunc4(double arg, double precision) {
         return func8.Ln(arg, precision)/func7.Log_5(arg, precision);
     }
+    //Implementation using stubs
 //    public double TrigFunc4(double arg, double precision) {
 //        return func7.Cot(arg, precision)+sin.Sin(arg, precision);
 //    }

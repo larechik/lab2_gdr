@@ -20,7 +20,7 @@ public class FuncLevel8 {
     public double Tan(double arg, double precision) {
         return sin.Sin(arg,precision)*sec.Sec(arg, precision);
     }
-
+//Implementation using stubs
 //    public double Ln(double arg, double precision) {
 //        return mockLn().evaluate(arg, precision);
 //    }

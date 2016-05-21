@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23e2707e-61c7-4b6a-a8bb-008172c30e88" name="Default" comment="" />
+    <list default="true" id="23e2707e-61c7-4b6a-a8bb-008172c30e88" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/Func.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/Func.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel2.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel3.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel4.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel5.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel6.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel6.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel7.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel7.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel8.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel8.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/Sec.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/Sec.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/gdr/expression/function/Sin.java" afterPath="$PROJECT_DIR$/src/ru/gdr/expression/function/Sin.java" />
+    </list>
     <ignored path="lab2_gdr.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,33 +36,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Func.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Func.java">
+      <file leaf-file-name="FuncLevel3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33445945">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Log.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/Log.java">
+      <file leaf-file-name="FuncLevel4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FuncLevel5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -59,20 +70,34 @@
         <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/SearchStructure.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MockFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/MockFactory.java">
+      <file leaf-file-name="FuncLevel6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel6.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="286" column="22" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="22" />
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+              <folding>
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MockFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/MockFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17256637">
+              <caret line="263" column="33" selection-start-line="263" selection-start-column="33" selection-end-line="263" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,22 +105,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExpFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/ExpFactory.java">
+      <file leaf-file-name="FuncLevel7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="160" column="0" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
-              <folding />
+              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+              <folding>
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Expression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/Expression.java">
+      <file leaf-file-name="FuncLevel8.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel8.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding />
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="29" selection-end-column="7" />
+              <folding>
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sec.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Sec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Sin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,6 +165,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -137,8 +195,6 @@
         <option value="$PROJECT_DIR$/src/test/TrigFunc9Test.java" />
         <option value="$PROJECT_DIR$/src/test/SecTest.java" />
         <option value="$PROJECT_DIR$/src/test/TanTest.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/Func.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel2.java" />
         <option value="$PROJECT_DIR$/log2.csv" />
         <option value="$PROJECT_DIR$/sec.csv" />
         <option value="$PROJECT_DIR$/trig2.csv" />
@@ -147,15 +203,8 @@
         <option value="$PROJECT_DIR$/cot.csv" />
         <option value="$PROJECT_DIR$/trig7.csv" />
         <option value="$PROJECT_DIR$/tan.csv" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel4.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel7.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel8.java" />
         <option value="$PROJECT_DIR$/src/test/SinTest.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/Sin.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/Sec.java" />
         <option value="$PROJECT_DIR$/src/test/TrigFunc8Test.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel6.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel5.java" />
         <option value="$PROJECT_DIR$/src/test/TrigFunc7Test.java" />
         <option value="$PROJECT_DIR$/src/test/TrigFunc6Test.java" />
         <option value="$PROJECT_DIR$/src/test/TrigFunc5Test.java" />
@@ -164,12 +213,21 @@
         <option value="$PROJECT_DIR$/src/test/LogFunc5Test.java" />
         <option value="$PROJECT_DIR$/src/test/LogFunc4Test.java" />
         <option value="$PROJECT_DIR$/src/test/LogFunc2Test.java" />
-        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel3.java" />
         <option value="$PROJECT_DIR$/src/test/LogFunc1Test.java" />
         <option value="$PROJECT_DIR$/src/test/LogFuncTest.java" />
         <option value="$PROJECT_DIR$/src/test/BigFuncTest.java" />
         <option value="$PROJECT_DIR$/src/ru/gdr/expression/Log.java" />
         <option value="$PROJECT_DIR$/src/ru/gdr/expression/Main.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/Func.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel2.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel3.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel4.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel5.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel6.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel7.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel8.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/Sec.java" />
+        <option value="$PROJECT_DIR$/src/ru/gdr/expression/function/Sin.java" />
       </list>
     </option>
   </component>
@@ -179,9 +237,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="width" value="1657" />
-    <option name="height" value="1088" />
+    <option name="x" value="69" />
+    <option name="y" value="-9" />
+    <option name="width" value="1860" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -208,6 +267,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -286,13 +347,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -838,7 +897,8 @@
       <workItem from="1463321150431" duration="40289000" />
       <workItem from="1463475158647" duration="11898000" />
       <workItem from="1463728343389" duration="27961000" />
-      <workItem from="1463776496538" duration="9843000" />
+      <workItem from="1463776496538" duration="11745000" />
+      <workItem from="1463815215490" duration="936000" />
     </task>
     <servers />
   </component>
@@ -875,22 +935,21 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89991000" />
+    <option name="totallyTimeSpent" value="92829000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="0" width="1657" height="1088" extended-state="0" />
+    <frame x="69" y="-9" width="1860" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3257821" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32230523" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22018927" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19798657" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -898,6 +957,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40453073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -971,19 +1031,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/LogFunc3Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/TrigFunc4Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,36 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/ru.gdr.expression.function">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>ru.gdr.expression.function</OriginalElement>
-          <nodes>
-            <node x="386.0" y="0.0">ru.gdr.expression.function.FuncLevel4</node>
-            <node x="367.0" y="187.0">ru.gdr.expression.function.FuncLevel5</node>
-            <node x="0.0" y="187.0">ru.gdr.expression.function.FuncLevel6</node>
-            <node x="0.0" y="347.0">ru.gdr.expression.function.FuncLevel7</node>
-            <node x="286.0" y="640.0">ru.gdr.expression.function.Sin</node>
-            <node x="0.0" y="507.0">ru.gdr.expression.function.FuncLevel8</node>
-            <node x="298.0" y="507.0">ru.gdr.expression.function.Func</node>
-            <node x="0.0" y="640.0">ru.gdr.expression.function.Sec</node>
-            <node x="342.0" y="347.0">ru.gdr.expression.function.FuncLevel2</node>
-            <node x="0.0" y="0.0">ru.gdr.expression.function.FuncLevel3</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-90.0" y="131.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -1116,7 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1124,7 +1144,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35510203">
           <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1132,7 +1151,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4489796">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1148,7 +1166,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,9 +1173,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1166,7 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1230,7 +1243,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1238,7 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1266,98 +1277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Sec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#706#707#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#758#759#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Sin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#489#490#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Func.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/Expression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1374,16 +1293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/MockFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="286" column="22" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/Log.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1392,22 +1301,267 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/SearchStructure.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ru.gdr.expression.function">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ru.gdr.expression.function</OriginalElement>
+          <nodes>
+            <node x="295.285037878788" y="921.0">ru.gdr.expression.function.FuncLevel4</node>
+            <node x="286.10037878787887" y="745.0">ru.gdr.expression.function.FuncLevel5</node>
+            <node x="185.71022727272737" y="559.0">ru.gdr.expression.function.FuncLevel6</node>
+            <node x="0.0" y="383.0">ru.gdr.expression.function.FuncLevel7</node>
+            <node x="282.46875" y="0.0">ru.gdr.expression.function.Sin</node>
+            <node x="358.128787878788" y="244.0">ru.gdr.expression.function.FuncLevel8</node>
+            <node x="319.5123106060608" y="1429.0">ru.gdr.expression.function.Func</node>
+            <node x="493.316287878788" y="132.0">ru.gdr.expression.function.Sec</node>
+            <node x="308.0123106060608" y="1290.0">ru.gdr.expression.function.FuncLevel2</node>
+            <node x="284.0123106060608" y="1097.0">ru.gdr.expression.function.FuncLevel3</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ru.gdr.expression.function.FuncLevel4" target="ru.gdr.expression.function.Sin">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel6" target="ru.gdr.expression.function.Sin">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.Func" target="ru.gdr.expression.function.FuncLevel2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel8" target="ru.gdr.expression.function.Sin">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel7" target="ru.gdr.expression.function.Sin">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel3" target="ru.gdr.expression.function.Sec">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel5" target="ru.gdr.expression.function.Sec">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel3" target="ru.gdr.expression.function.FuncLevel7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel4" target="ru.gdr.expression.function.FuncLevel7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel5" target="ru.gdr.expression.function.FuncLevel8">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.Sec" target="ru.gdr.expression.function.Sin">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel5" target="ru.gdr.expression.function.FuncLevel7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel6" target="ru.gdr.expression.function.FuncLevel8">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel2" target="ru.gdr.expression.function.FuncLevel3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel5" target="ru.gdr.expression.function.FuncLevel6">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel3" target="ru.gdr.expression.function.FuncLevel4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel7" target="ru.gdr.expression.function.FuncLevel8">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel4" target="ru.gdr.expression.function.FuncLevel5">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel6" target="ru.gdr.expression.function.FuncLevel7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ru.gdr.expression.function.FuncLevel8" target="ru.gdr.expression.function.Sec">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5764394440767704" x="-742.0" y="446.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ru.gdr.expression">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ru.gdr.expression</OriginalElement>
+          <nodes>
+            <node x="678.0" y="0.0">ru.gdr.expression.Main</node>
+            <node x="754.0" y="701.0">ru.gdr.expression.SearchStructure</node>
+            <node x="470.0" y="701.0">ru.gdr.expression.Log</node>
+            <node x="0.0" y="1051.0">ru.gdr.expression.Expression</node>
+            <node x="0.0" y="0.0">ru.gdr.expression.MockFactory</node>
+            <node x="0.0" y="701.0">ru.gdr.expression.ExpFactory</node>
+            <node x="321.0" y="1051.0">ru.gdr.expression.function</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="155.0" y="-682.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Func.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33445945">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/FuncLevel8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="29" selection-end-column="7" />
+          <folding>
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Sec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/function/Sin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/SearchStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/gdr/expression/MockFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17256637">
+          <caret line="263" column="33" selection-start-line="263" selection-start-column="33" selection-end-line="263" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

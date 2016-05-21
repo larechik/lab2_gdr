@@ -19,6 +19,7 @@ public class FuncLevel3 {
     public double TrigFunc5(double arg, double precision) {
         return func7.Cot(arg, precision)/ func4.TrigFunc6(arg, precision);
     }
+    //Implementation using stubs
 //    public double LogFunc1(double arg, double precision) {
 //        return divide(mockLog2(), mockLog_5()).evaluate(arg, precision);
 //    }

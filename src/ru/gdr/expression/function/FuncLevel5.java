@@ -22,7 +22,7 @@ public class FuncLevel5 {
     public double TrigFunc3(double arg, double precision) {
         return func6.TrigFunc4(arg, precision)*sec.Sec(arg, precision);
     }
-    //написать заглушки
+//Implementation using stubs
 //    public double LogFunc3(double arg, double precision) {
 //        return func6.LogFunc4(arg, precision)-func8.Ln(arg, precision);
 //    }
