@@ -11,7 +11,6 @@ import static ru.gdr.expression.ExpFactory.sin;
  */
 public class Sin {
     public double Sin(double arg, double precision) {
-
         return sin(variable()).evaluate(arg, precision);
     }
     /*public double Sin(double arg, double precision) {
